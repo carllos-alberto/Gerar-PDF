@@ -1,0 +1,44 @@
+body{
+    background-color: azure;
+}
+h1{
+    margin: 50px;
+    text-align: center;
+    font-size: 40px;
+}
+h2 {
+    display: block;
+    width: 500px;
+    height: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    text-decoration: solid;
+    padding: 10px;
+}
+p {
+    display: block;
+    width: 500px;
+    height: 500px;
+    border: solid 2px grey;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    padding: 30px;
+}
+#generate-pdf {
+    background-color:  rgb(141, 139, 139);
+    display: block;
+    font-size: 18px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    padding: 20px;
+}
+#generate-pdf:hover{
+    color: gray;
+    background-color: rgb(242, 234, 234);
+}
