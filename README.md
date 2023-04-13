@@ -18,7 +18,7 @@ Projeto que mostra como converter conteúdo HTML em um arquivo PDF no lado do cl
 - JavaScript
 - VsCode
 
-### Bibliotécas
+### Biblioteca
 - html2pdf.js
 
 ## Autor
