@@ -1,6 +1,6 @@
 # Gerar-PDF
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/carllos-alberto/Galeria-de-Imagens-de-pets/blob/master/LICENCE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/carllos-alberto/Gerar-PDF/blob/master/LICENCE) 
 
 ## Link de acesso a página
 <p><a href="" target="_blank">🔗Clique aqui</a></p>
